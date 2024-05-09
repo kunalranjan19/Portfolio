@@ -19,7 +19,7 @@ Clone the repository to your local machine.
 
 
 ```bash 
-Open the index.html file in your web browser.
+git clone https://github.com/kunalranjan19/Portfolio.git
 ```
 Open the 'index.html' file in your web browser.
 
