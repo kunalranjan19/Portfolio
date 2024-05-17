@@ -1,4 +1,4 @@
-# Portfolio    (under progress)
+# Portfolio    (in progress)
 
 Welcome to my portfolio project! This web application is built using HTML, CSS, and JavaScript to showcase my frontend development skills and projects.(under development)
 
